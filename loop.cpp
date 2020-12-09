@@ -14,11 +14,35 @@ int main() {
      * For loop
      * *****/
 
-    for (int i = 1; i <= 100; i++)
-    {   
-        cout<< i<< endl;
-    }
+    // for (int i = 1; i <= 100; i++)
+    // {   
+    //     cout<< i<< endl;
+    // }
     
+
+    /*****
+     * while loop
+     * */
+    // int i = 0;
+    // while(i<25) {
+    //     cout<< i<<endl;
+    //     i++;
+    // }
+// int i = 1;
+
+// do
+// {
+//     cout<< i<<endl; 
+//     i++;
+// } while (false);
+
+// 6 table 
+// int i = 1;
+// do
+// {
+//     cout<<"6 * "<<i<<"= "<<6*i<< endl;
+//     i++;
+// } while (i<=10);
 
 
 
